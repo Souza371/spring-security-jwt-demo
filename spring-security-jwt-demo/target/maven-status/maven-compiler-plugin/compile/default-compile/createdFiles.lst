@@ -1,1 +1,11 @@
+com/vicente/auth/config/SecurityConfig.class
 com/vicente/auth/SpringSecurityJwtDemoApplication.class
+com/vicente/auth/repository/UserRepository.class
+com/vicente/auth/controller/AuthController.class
+com/vicente/auth/entity/User.class
+com/vicente/auth/dto/RegisterRequest.class
+com/vicente/auth/dto/JwtResponse.class
+com/vicente/auth/service/UserDetailsServiceImpl.class
+com/vicente/auth/service/AuthService.class
+com/vicente/auth/dto/LoginRequest.class
+com/vicente/auth/config/JwtService.class

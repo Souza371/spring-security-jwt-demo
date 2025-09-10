@@ -1,1 +1,11 @@
 /workspaces/spring-security-jwt-demo/spring-security-jwt-demo/src/main/java/com/vicente/auth/SpringSecurityJwtDemoApplication.java
+/workspaces/spring-security-jwt-demo/spring-security-jwt-demo/src/main/java/com/vicente/auth/dto/JwtResponse.java
+/workspaces/spring-security-jwt-demo/spring-security-jwt-demo/src/main/java/com/vicente/auth/repository/UserRepository.java
+/workspaces/spring-security-jwt-demo/spring-security-jwt-demo/src/main/java/com/vicente/auth/config/JwtService.java
+/workspaces/spring-security-jwt-demo/spring-security-jwt-demo/src/main/java/com/vicente/auth/config/SecurityConfig.java
+/workspaces/spring-security-jwt-demo/spring-security-jwt-demo/src/main/java/com/vicente/auth/entity/User.java
+/workspaces/spring-security-jwt-demo/spring-security-jwt-demo/src/main/java/com/vicente/auth/controller/AuthController.java
+/workspaces/spring-security-jwt-demo/spring-security-jwt-demo/src/main/java/com/vicente/auth/service/AuthService.java
+/workspaces/spring-security-jwt-demo/spring-security-jwt-demo/src/main/java/com/vicente/auth/service/UserDetailsServiceImpl.java
+/workspaces/spring-security-jwt-demo/spring-security-jwt-demo/src/main/java/com/vicente/auth/dto/LoginRequest.java
+/workspaces/spring-security-jwt-demo/spring-security-jwt-demo/src/main/java/com/vicente/auth/dto/RegisterRequest.java
